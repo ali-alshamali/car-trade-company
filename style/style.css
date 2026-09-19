@@ -5,3 +5,10 @@
     list-style-type: none;
     
 }
+body{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height: 100vh;
+    background:#121212;
+}
