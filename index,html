@@ -9,7 +9,7 @@
 <body>
 
   <!--- header Section---->
-  
+  <h1> Ali Alshamali</h1>
   <!--- Section---->
   <!--- Section---->
   <!--- Section---->
@@ -19,6 +19,6 @@
   <!--- Section---->
   <!--- Section---->
   <!--- Section---->
-
+  <script script src="./js/SCRIPT.JS"></script>
 </body>
 </html>
